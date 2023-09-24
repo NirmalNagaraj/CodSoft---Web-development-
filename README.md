@@ -1,4 +1,4 @@
-# CodSoft---Web-development-
+# CodSoft Web-development
 Repo of an internship progress
 This repo contains the progress of a web development projects . This contains 
 
